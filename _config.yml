@@ -50,3 +50,8 @@ plugins: []
 #   - vendor/gems/
 #   - vendor/ruby/
 
+nav_items:
+  - label: "Home"
+    href: "/"
+  - label: "About"
+    href: "/Ethics/"
