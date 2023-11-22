@@ -22,8 +22,8 @@ title: Yemaj's Website
 email: ywabar@gmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This website is designed for IT304. This is for Assignment 4.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://ywabar.github.io/" # the subpath of your site, e.g. /blog
+url: "https://ywabar.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: N/A
 github_username: ywabar
 
